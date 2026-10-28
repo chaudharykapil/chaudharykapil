@@ -14,8 +14,7 @@ Software Engineer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [chaudharykapil8279@gmail.com](mailto:chaudharykapil8279@gmail.com)
-* 🧠  I'm currently learning Blockchain, Web3
-* 🤝  I'm open to collaborating on interesting projects
+* 🧠  I'm currently learning Gen AI and Agentic Ai
 * ⚡  I have a Computer Science background(Self learner), but most of the credit goes to Google, Youtube and Stack Overflow xD
 
 
